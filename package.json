@@ -1,0 +1,23 @@
+{
+  "name": "automation-test-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  
+  "devdependencies": {
+    "cypress": "^8.3.1",
+    "cypress-cucumber-preprocessor": "^4.2.0"
+  },
+  "Dependencies": {
+    "cypress-xpath": "^1.6.2"
+  },
+  "devDependencies": {
+    "cypress": "^12.16.0"
+  }
+}

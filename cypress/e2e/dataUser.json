@@ -1,0 +1,26 @@
+{
+  "create": {
+    "name": "Angela Smith",
+    "email": "angela@example.com",
+    "gender": "female",
+    "status": "active"
+  },
+  "update": {
+    "name": "Angela Smith Panjaitan",
+    "email": "angelajait@example.com",
+    "gender": "female",
+    "status": "inactive"
+  },
+  "post": {
+    "title": "Membuat Automation API Test",
+    "body": "Dalam mengotomatisasi pengujian API, kita memilih bahasa pemrograman, menentukan URL dan endpoint, mengatur header dan payload, lalu menggunakan library requests untuk mengirim permintaan dan memeriksa respons."
+  },
+  "comments": {
+    "email": "john_asep@gmail.example",
+    "body": "Example comment"
+  },
+  "todos": {
+    "title": "Membuat Automation API Test Go Rest",
+    "status": "pending"
+  }
+}
